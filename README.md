@@ -5,7 +5,7 @@ This Python script is designed to predict whether a credit card transaction is l
 ## Dataset
 
 - **Dataset Name**: Credit Card Fraud dataset
-- **Data Source**: [Link to the dataset](provide_link_here)
+- **Data Source**: upload on git
 - The dataset contains the following attributes:
   - Feature columns (30): Numerical values representing various features of credit card transactions.
   - Target column: Binary variable (0 for normal transaction, 1 for fraudulent transaction).
